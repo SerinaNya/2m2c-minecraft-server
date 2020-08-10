@@ -6,4 +6,4 @@
   - cn-sq-bgp: `mc-sq-bgp.xiaojin233.cn`, `cn-sq-bgp.sakurafrp.com:52191`
 
 ## Mirror Nodes (by community)
-Currently not available
+Mirror 1 (by sheng23333): `mirror-1.play.xiao-jin.site`
