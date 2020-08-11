@@ -3,7 +3,7 @@
 ## Main Nodes
 **DNS balancing**: `play.xiao-jin.site`
 
-！[status-img](https://mcstatus.glavo.site/status?addr=mc.xiaojin233.cn)
+![status-img](https://mcstatus.glavo.site/status?addr=mc.xiaojin233.cn)
 cn-zj-bgp-3: `mc.xiaojin233.cn`, `cn-zj-bgp-3.sakurafrp.com:10556`
 
 ![status-img](https://mcstatus.glavo.site/status?addr=mc-sq-bgp.xiaojin233.cn)
